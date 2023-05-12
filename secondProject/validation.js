@@ -1,0 +1,1 @@
+const nameRegex = /^[a-zA-Z]+$/;
